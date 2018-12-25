@@ -2,31 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55c70b92-8f18-4477-b4b1-38d187a1a50a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_8_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_26_incubating.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_5_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_3_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_1_3_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_server_1_3_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_3_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-client/src/main/java/com/codingapi/tx/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-client/src/main/java/com/codingapi/tx/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/ColumnInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/ColumnInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/ITxcStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/ITxcStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/IndexInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/IndexInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/TableMetaInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/TableMetaInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/TableMetaUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/TableMetaUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/TxcPreparedStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/TxcPreparedStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/TxcSqlExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/TxcSqlExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/AbstractParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/AbstractParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/DeleteParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/DeleteParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/ExecutePaser.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/ExecutePaser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/InsertParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/InsertParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/ResultConvertUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/ResultConvertUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/SqlUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/SqlUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/UpdateParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/UpdateParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/AbstractRollback.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/AbstractRollback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/DeleteRollback.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/DeleteRollback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/DiffUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/DiffUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/InsertRollback.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/InsertRollback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/TxcRollbackDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/TxcRollbackDataSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/TxcRollbackService.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/TxcRollbackService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/TxcRollbackServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/TxcRollbackServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/UpdateRollback.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/UpdateRollback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-manager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tx-manager/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/TxManagerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/TxManagerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-manager/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tx-manager/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/tx-manager/target/" />
     <ignored path="$PROJECT_DIR$/tx-client/target/" />
@@ -43,84 +57,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="AbstractRollback.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/AbstractRollback.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TransactionFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/filter/TransactionFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="450">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeleteRollback.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/DeleteRollback.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InsertRollback.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/InsertRollback.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-600">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TxcRollbackDataSource.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/TxcRollbackDataSource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TxcRollbackService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/TxcRollbackService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TxcRollbackServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/TxcRollbackServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UpdateRollback.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/UpdateRollback.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="275">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/tx-manager/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="86" column="11" lean-forward="true" selection-start-line="86" selection-start-column="11" selection-end-line="86" selection-end-column="11" />
+            <state relative-caret-position="146">
+              <caret line="72" column="20" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiffUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/DiffUtils.java">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tx-manager/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="350">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -138,8 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/TxManagerApplication.java" />
-        <option value="$PROJECT_DIR$/tx-manager/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/tx-client/src/main/java/com/codingapi/tx/Constants.java" />
         <option value="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/ColumnInfo.java" />
         <option value="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/IndexInfo.java" />
@@ -164,6 +131,9 @@
         <option value="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/TxcRollbackServiceImpl.java" />
         <option value="$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/rollback/UpdateRollback.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/TxManagerApplication.java" />
+        <option value="$PROJECT_DIR$/tx-manager/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tx-manager/pom.xml" />
       </list>
     </option>
   </component>
@@ -193,18 +163,21 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
-    <option name="height" value="1100" />
+    <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,122 +185,24 @@
               <item name="tx-lcn" type="b2602c69:ProjectViewProjectNode" />
               <item name="tx-lcn" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="tx-lcn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tx-lcn" type="462c0819:PsiDirectoryNode" />
-              <item name="tx-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tx-lcn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tx-lcn" type="462c0819:PsiDirectoryNode" />
-              <item name="tx-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tx-lcn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tx-lcn" type="462c0819:PsiDirectoryNode" />
-              <item name="tx-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tx-lcn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tx-lcn" type="462c0819:PsiDirectoryNode" />
-              <item name="tx-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tx-lcn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tx-lcn" type="462c0819:PsiDirectoryNode" />
-              <item name="tx-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tx-lcn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tx-lcn" type="462c0819:PsiDirectoryNode" />
-              <item name="tx-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tx" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tx-lcn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tx-lcn" type="462c0819:PsiDirectoryNode" />
-              <item name="tx-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tx" type="462c0819:PsiDirectoryNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tx-lcn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tx-lcn" type="462c0819:PsiDirectoryNode" />
-              <item name="tx-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tx" type="462c0819:PsiDirectoryNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tx-lcn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tx-lcn" type="462c0819:PsiDirectoryNode" />
-              <item name="tx-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tx" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tx-lcn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tx-lcn" type="462c0819:PsiDirectoryNode" />
-              <item name="tx-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tx" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="handler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tx-lcn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tx-lcn" type="462c0819:PsiDirectoryNode" />
-              <item name="tx-manager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tx-lcn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tx-lcn" type="462c0819:PsiDirectoryNode" />
-              <item name="tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tx-lcn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tx-lcn" type="462c0819:PsiDirectoryNode" />
-              <item name="tx-plugins-db" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringBoot-dubbo-lcn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
@@ -412,48 +287,61 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545289054527</updated>
-      <workItem from="1545289056924" duration="7263000" />
+      <workItem from="1545289056924" duration="7462000" />
+      <workItem from="1545360068671" duration="593000" />
+      <workItem from="1545372420603" duration="2371000" />
+      <workItem from="1545386883738" duration="766000" />
+      <workItem from="1545392408485" duration="5511000" />
+      <workItem from="1545399591263" duration="3426000" />
+      <workItem from="1545543984446" duration="3029000" />
+      <workItem from="1545553284895" duration="526000" />
+      <workItem from="1545554328211" duration="4237000" />
+      <workItem from="1545616420006" duration="1724000" />
+      <workItem from="1545618282754" duration="4828000" />
+      <workItem from="1545630539253" duration="4964000" />
+      <workItem from="1545644068467" duration="1060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7263000" />
+    <option name="totallyTimeSpent" value="40497000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.09048257" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="9" visible="true" weight="0.101876676" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44948757" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.329429" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.077598825" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.24597365" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="right" id="Bean Validation" />
-      <window_info id="Web" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22693998" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.24597365" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24731903" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.329429" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -462,269 +350,29 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/filter/TransactionFilter.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/filter/TransactionFilter.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/api/service/ApiTxManagerService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-575">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/api/service/ApiModelService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/api/service/ApiAdminService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/api/controller/TxManagerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-134">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/config/ConfigReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-725">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/api/controller/AdminController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-670">
-          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/listener/ApplicationStartListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transaction-springcloud/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="50">
-            <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-manager/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3600">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transaction-springcloud/src/main/java/com/codingapi/tx/springcloud/interceptor/TxManagerInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transaction-springcloud/src/main/java/com/codingapi/tx/springcloud/listener/ServerListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transaction-springcloud/src/main/java/com/codingapi/tx/springcloud/service/impl/ModelNameServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-969">
-          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transaction-springcloud/src/main/java/com/codingapi/tx/RequestInterceptorConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transaction-springcloud/src/main/java/com/codingapi/tx/TransactionConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transaction-springcloud/src/main/java/com/codingapi/ribbon/loadbalancer/LcnLoadBalancerRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1344">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transaction-springcloud/src/main/java/com/codingapi/ribbon/loadbalancer/LcnNoOpLoadBalancerProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transaction-springcloud/src/main/java/com/codingapi/ribbon/loadbalancer/LcnRibbonConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transaction-springcloud/src/main/java/com/codingapi/ribbon/loadbalancer/LcnZoneAwareLoadBalancerProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-295">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transaction-springcloud/src/main/java/com/codingapi/tx/springcloud/feign/TransactionRestTemplateInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transaction-springcloud/src/main/java/com/codingapi/tx/springcloud/http/TransactionHttpRequestInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transaction-springcloud/src/main/java/com/codingapi/tx/springcloud/interceptor/TransactionAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-client/src/main/java/com/codingapi/tx/netty/handler/TransactionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2600">
-          <caret line="121" column="1" lean-forward="true" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-client/src/main/java/com/codingapi/tx/aop/bean/TxCompensateLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-318">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-client/src/main/java/com/codingapi/tx/aop/bean/TxTransactionInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-582">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-client/src/main/java/com/codingapi/tx/aop/bean/TxTransactionLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1015">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-client/src/main/java/com/codingapi/tx/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/ColumnInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/IndexInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/TableMetaInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/TableMetaUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-206">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/TxcPreparedStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/TxcSqlExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/ITxcStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/AbstractParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/DeleteParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/ExecutePaser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/parser/InsertParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="61">
@@ -809,13 +457,276 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-javadoc-plugin/2.10.3/maven-javadoc-plugin-2.10.3.pom">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/ServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/RestConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-389">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/redis/JedisClusterConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/redis/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/redis/service/impl/RedisServerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1672">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/txc/TxcSqlExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/api/service/ApiTxManagerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-653">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/manager/service/impl/LoadBalanceServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/model/ChannelSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/model/LoadBalanceInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/model/ModelInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/model/ModelName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/model/TxServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/model/TxState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-zookeeper-core/1.1.1.RELEASE/spring-cloud-zookeeper-core-1.1.1.RELEASE.jar!/org/springframework/cloud/zookeeper/ZookeeperProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-94">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-zookeeper-core/1.1.1.RELEASE/spring-cloud-zookeeper-core-1.1.1.RELEASE-sources.jar!/org/springframework/cloud/zookeeper/ZookeeperProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/api/controller/TxManagerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/config/ConfigReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-283">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/listener/ServerListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/listener/ApplicationStartListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-329">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/api/service/impl/ApiTxManagerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/manager/service/impl/TxManagerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/TxManagerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/netty/handler/TxCoreServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="46" column="42" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final.jar!/io/netty/util/ReferenceCountUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/framework/utils/SocketUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transaction-springcloud/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/balance/ConsistentHashLoadBalanceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/balance/LCNBalanceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/balance/LeastActiveLoadBalanceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/balance/RandomLoadBalanceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/balance/RoundRobinLoadBalanceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.7/dubbo-2.5.7.jar!/com/alibaba/dubbo/common/Constants.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/filter/TransactionFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="86" column="11" lean-forward="true" selection-start-line="86" selection-start-column="11" selection-end-line="86" selection-end-column="11" />
+        <state relative-caret-position="275">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="72" column="20" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
         </state>
       </provider>
     </entry>
